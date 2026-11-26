@@ -1,4 +1,4 @@
-# RECONOCIMIENTO DE PLACAS VEHICULARES CON IA
+# RECONOCIMIENTO DE PLACAS VEHICULARES CON IA 🦐
 
 Proyecto de clasificación que detecta y lee placas vehiculares en tiempo real
 
@@ -34,7 +34,7 @@ Antees de ejecutar el git push:
   __pycache__/
   *.csv
   ```
-# Creditos y derechos de autor:
+# Creditos y derechos de autor 🦐🥸:
 Este proyecto esta basado en el repositorio original de **Bryan de Jesús (`bryandejesusrt`), adaptado para la deteccion y reconocimiento en tiempo real de placas
 vehiculares:
 * Repositorio base: [Reconocimiento-de-placas-con-IA-Bytecoders](https://github.com/bryandejesusrt/Reconocimiento-de-placas-con-IA-Bytecoders)
